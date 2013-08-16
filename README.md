@@ -1,7 +1,7 @@
 anodeDraw
 =========
 
-A NodeJS Multiplayer Drawing Space
+A NodeJS Multiplayer Drawing Space. The app will let users draw on the page by dragging and moving their mice, and will display the results on a large canvas element. What sets is apart from all the other similar experiments though, is that people will see each other in real time as they do so. To achieve this, we will leverage the socket.io library for node.js, which uses a range of technologies from websockets to AJAX long polling to give us a real time data channel. Because of this, the example works in all modern browsers.
 
 
 Installing node.js
