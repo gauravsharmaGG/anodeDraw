@@ -21,7 +21,6 @@ curl http://nodejs.org/dist/node-latest.tar.gz | tar xz --strip-components=1
 ./configure --prefix=~/local
 make install # ok, fine, this step probably takes more than 30 seconds...
 curl https://npmjs.org/install.sh | sh
->>
 
 After you finish installing, you will also get access to npm, or node package manager. 
 With this utility you can install useful libraries and bits of code that you can import into your node.js scripts. 
@@ -37,4 +36,3 @@ Running the Application
 
 Navigate to the folder in command prompt and then type :-
 >>node app.js
->>
