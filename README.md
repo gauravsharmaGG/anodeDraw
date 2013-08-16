@@ -11,7 +11,7 @@ To run the game you will need to install node.js. It shouldn’t take more than 
 If you are on Windows, you can go ahead and download the installer from its official site. If you are on Linux or OSX, 
 you will need to run this set of commands in your terminal :-
 
->>
+>
 echo 'export PATH=$HOME/local/bin:$PATH' >> ~/.bashrc
 . ~/.bashrc
 mkdir ~/local
@@ -35,4 +35,4 @@ Running the Application
 =========================
 
 Navigate to the folder in command prompt and then type :-
->>node app.js
+>node app.js
